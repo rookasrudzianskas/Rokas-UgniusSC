@@ -1,0 +1,10 @@
+E:\RookasScientificCalculator\RookasScientificCalculator\bin\Debug\CS_ScientificCalculator.exe.config
+E:\RookasScientificCalculator\RookasScientificCalculator\bin\Debug\CS_ScientificCalculator.exe
+E:\RookasScientificCalculator\RookasScientificCalculator\bin\Debug\CS_ScientificCalculator.pdb
+E:\RookasScientificCalculator\RookasScientificCalculator\obj\Debug\Rookas Smart Calculator.csprojAssemblyReference.cache
+E:\RookasScientificCalculator\RookasScientificCalculator\obj\Debug\CS_ScientificCalculator.Form1.resources
+E:\RookasScientificCalculator\RookasScientificCalculator\obj\Debug\CS_ScientificCalculator.Properties.Resources.resources
+E:\RookasScientificCalculator\RookasScientificCalculator\obj\Debug\Rookas Smart Calculator.csproj.GenerateResource.cache
+E:\RookasScientificCalculator\RookasScientificCalculator\obj\Debug\Rookas Smart Calculator.csproj.CoreCompileInputs.cache
+E:\RookasScientificCalculator\RookasScientificCalculator\obj\Debug\CS_ScientificCalculator.exe
+E:\RookasScientificCalculator\RookasScientificCalculator\obj\Debug\CS_ScientificCalculator.pdb
