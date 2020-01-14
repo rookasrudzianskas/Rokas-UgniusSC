@@ -1,0 +1,52 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/rookasrudzianskas/Documents/GitHub/Rokas-UgniusSC/Rokas-UgniusSC.Android/Rokas-UgniusSC.Android.csproj": {}
+  },
+  "projects": {
+    "/Users/rookasrudzianskas/Documents/GitHub/Rokas-UgniusSC/Rokas-UgniusSC.Android/Rokas-UgniusSC.Android.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/rookasrudzianskas/Documents/GitHub/Rokas-UgniusSC/Rokas-UgniusSC.Android/Rokas-UgniusSC.Android.csproj",
+        "projectName": "Rokas_UgniusSC.Android",
+        "projectPath": "/Users/rookasrudzianskas/Documents/GitHub/Rokas-UgniusSC/Rokas-UgniusSC.Android/Rokas-UgniusSC.Android.csproj",
+        "packagesPath": "/Users/rookasrudzianskas/.nuget/packages/",
+        "outputPath": "/Users/rookasrudzianskas/Documents/GitHub/Rokas-UgniusSC/Rokas-UgniusSC.Android/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/rookasrudzianskas/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid90"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid90": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid90": {
+          "dependencies": {
+            "Xamarin.Android.Support.Core.Utils": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.2.0.709249, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
