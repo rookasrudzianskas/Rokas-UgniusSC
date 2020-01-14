@@ -27,3 +27,6 @@
 /Users/rookasrudzianskas/Documents/GitHub/Rokas-UgniusSC/Rokas-UgniusSC.Android/obj/Debug/flata/6ffc48fa4b88ca62a2b2b10a5e201ef1b909f78a.flata
 /Users/rookasrudzianskas/Documents/GitHub/Rokas-UgniusSC/Rokas-UgniusSC.Android/obj/Debug/flata/50414fedacc567d9eaf757b0bf5917e3617fb2a6.flata
 /Users/rookasrudzianskas/Documents/GitHub/Rokas-UgniusSC/Rokas-UgniusSC.Android/obj/Debug/flata/41951996b2adb6252cc4a50797b8cab5edab09a9.flata
+/Users/rookasrudzianskas/Documents/GitHub/Rokas-UgniusSC/Rokas-UgniusSC.Android/obj/Debug/flata/compiled.flata
+/Users/rookasrudzianskas/Documents/GitHub/Rokas-UgniusSC/Rokas-UgniusSC.Android/obj/Debug/R.txt
+/Users/rookasrudzianskas/Documents/GitHub/Rokas-UgniusSC/Rokas-UgniusSC.Android/obj/Debug/R.cs.flag
